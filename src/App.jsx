@@ -1,11 +1,11 @@
-import CriarPlayList from './components/CriarPlayList.jsx';
-import ListPlayList from './components/ListPlayList.jsx';
+import CriarPlayList from './components/CriarPlayList';
+import ListPlayList from './components/ListPlayList';
 
 function App() {
   return (
     <div className="container mt-5">
       <CriarPlayList/>   
-       
+      
     </div>
   );
 }

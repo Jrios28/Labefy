@@ -75,13 +75,11 @@ export default class ListPlayList extends Component {
         return (
             
             <div>
-            <hr/>
-                
+                <hr/>                
                    <h3>Lista de Playlists</h3>
                         <Content>
                             {componentPlayList}
-                        </Content>                
-
+                        </Content>              
             </div>
         )
     }

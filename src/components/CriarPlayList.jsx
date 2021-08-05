@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import axios from 'axios'
 import styled from 'styled-components'
-import ListPlayList from './ListPlayList.jsx'
+import ListPlayList from './ListPlayList'
 
 
 export default class CriarPlayList extends Component {
